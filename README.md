@@ -16,6 +16,8 @@ This is my own solution.
 What technology was used? -
 I created the solution in Python. 
 
+How to open the code? - To use this code you need to open it in IDLE for Python.
+
 
 
 
